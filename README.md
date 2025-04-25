@@ -10,8 +10,8 @@ Projeto desenvolvido na disciplina de Prática Em Pesquisa 2025/1.
 
 ---
 
-# Dados
-
+# Dados Baixados DE 
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvrs.def
 
 ---
 # Autores:
