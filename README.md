@@ -19,14 +19,14 @@ http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvrs.def
 - IDADE DAS MÃES COM NUMERO DE CONSULTA PRÉ NATAL E SE O NASCIDO TEVE ALGUMA ANOMALIA
 - TIPO DE PARTO COM REGIAO DE SAÚDE(CIR)(GASTOS COM ELES DEVIDO AO TIPO) 2021 AA 2023
 - LOCAL DO NASCIMENTO POR REGIÃO DE 2021 A 2023
-- LINHA DO TEMPO RECORTE DE PARTOS POR 10 ANOS
+- LINHA DO TEMPO RECORTE DE PARTOS POR 10 ANOS(Feito já)
 ---
 # Links idades das mães com quantidades de partos:
 - http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
 - http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
 - http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
 - http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
+- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def 
 - http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
 - http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
 - http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
