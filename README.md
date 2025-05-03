@@ -10,11 +10,11 @@ Projeto desenvolvido na disciplina de Prática Em Pesquisa 2025/1.
 
 ---
 
-# Dados Baixados Do Site:
+# 📥Dados Baixados Do Site:
 http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvrs.def
 
 ---
-# Dados Analisados:
+# 📊Dados Analisados:
 - Dados por região DE 2013 A 2023 (quantidade de médicos que precisam por região)
 - IDADE DAS MÃES COM NUMERO DE CONSULTA PRÉ NATAL E SE O NASCIDO TEVE ALGUMA ANOMALIA
 - TIPO DE PARTO COM REGIAO DE SAÚDE(CIR)(GASTOS COM ELES DEVIDO AO TIPO) 2021 AA 2023
