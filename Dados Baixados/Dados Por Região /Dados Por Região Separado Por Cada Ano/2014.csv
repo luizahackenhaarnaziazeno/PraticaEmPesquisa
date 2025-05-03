@@ -1,0 +1,546 @@
+ Nascidos vivos - Rio Grande do Sul;
+Nascim p/resid.mãe por Região de Saúde/Município;
+Período:2014;
+Região de Saúde/Município;Nascim_p/resid.mãe
+43001 Região 01 - Verdes Campos;5248
+.....  JULIO DE CASTILHOS;250
+.....  NOVA PALMA;69
+.....  SAO PEDRO DO SUL;153
+.....  SAO MARTINHO DA SERRA;31
+.....  DILERMANDO DE AGUIAR;34
+.....  SANTA MARIA;3406
+.....  PARAISO DO SUL;58
+.....  SAO SEPE;243
+.....  VILA NOVA DO SUL;22
+.....  RESTINGA SECA;165
+.....  ITAARA;70
+.....  QUEVEDOS;19
+.....  PINHAL GRANDE;41
+.....  TUPANCIRETA;297
+.....  TOROPI;23
+.....  SILVEIRA MARTINS;20
+.....  SAO JOAO DO POLESINE;31
+.....  FAXINAL DO SOTURNO;52
+.....  DONA FRANCISCA;33
+.....  FORMIGUEIRO;56
+.....  AGUDO;162
+.....  IVORA;13
+43002 Região 02 - Entre Rios;1253
+.....  SANTIAGO;551
+.....  MATA;44
+.....  JARI;30
+.....  CACEQUI;104
+.....  NOVA ESPERANCA DO SUL;53
+.....  UNISTALDA;28
+.....  ITACURUBI;29
+.....  SAO VICENTE DO SUL;91
+.....  CAPAO DO CIPO;25
+.....  JAGUARI;83
+.....  SAO FRANCISCO DE ASSIS;215
+43003 Região 03 - Fronteira Oeste;6068
+.....  MACAMBARA;37
+.....  ROSARIO DO SUL;400
+.....  SANTA MARGARIDA DO SUL;25
+.....  QUARAI;306
+.....  ALEGRETE;925
+.....  BARRA DO QUARAI;38
+.....  ITAQUI;530
+.....  SAO GABRIEL;765
+.....  SANT'ANA DO LIVRAMENTO;1126
+.....  MANOEL VIANA;65
+.....  URUGUAIANA;1851
+43004 Região 04 - Belas Praias;2056
+.....  MAMPITUBA;19
+.....  TRES FORQUILHAS;23
+.....  MAQUINE;88
+.....  DOM PEDRO DE ALCANTARA;19
+.....  ARROIO DO SAL;103
+.....  TRES CACHOEIRAS;123
+.....  CAPAO DA CANOA;795
+.....  TORRES;514
+.....  XANGRI-LA;223
+.....  ITATI;30
+.....  MORRINHOS DO SUL;23
+.....  TERRA DE AREIA;96
+43005 Região 05 - Bons Ventos;2869
+.....  CARAA;72
+.....  CIDREIRA;174
+.....  IMBE;283
+.....  MOSTARDAS;122
+.....  OSORIO;593
+.....  TRAMANDAI;819
+.....  SANTO ANTONIO DA PATRULHA;449
+.....  BALNEARIO PINHAL;138
+.....  PALMARES DO SUL;135
+.....  CAPIVARI DO SUL;48
+.....  TAVARES;36
+43006 Região 06 - Vale do Paranhana e Costa Serra;2959
+.....  PAROBE;794
+.....  ROLANTE;276
+.....  SAO FRANCISCO DE PAULA;261
+.....  RIOZINHO;43
+.....  CAMBARA DO SUL;66
+.....  TRES COROAS;326
+.....  IGREJINHA;470
+.....  TAQUARA;723
+43007 Região 07 - Vale dos Sinos;10698
+.....  DOIS IRMAOS;363
+.....  CAMPO BOM;845
+.....  SAPIRANGA;1199
+.....  SAO LEOPOLDO;3063
+.....  LINDOLFO COLLOR;92
+.....  SAO JOSE DO HORTENCIO;41
+.....  MORRO REUTER;77
+.....  NOVA HARTZ;240
+.....  SANTA MARIA DO HERVAL;84
+.....  ESTANCIA VELHA;644
+.....  PRESIDENTE LUCENA;28
+.....  PORTAO;430
+.....  NOVO HAMBURGO;3206
+.....  ARARICA;108
+.....  IVOTI;278
+43008 Região 08 - Vale do Caí e Metropolitana;10964
+.....  MONTENEGRO;910
+.....  TRIUNFO;333
+.....  TUPANDI;66
+.....  SAPUCAIA DO SUL;2012
+.....  CANOAS;5328
+.....  SAO PEDRO DA SERRA;38
+.....  CAPELA DE SANTANA;130
+.....  BROCHIER;45
+.....  TABAI;45
+.....  MARATA;12
+.....  SAO SEBASTIAO DO CAI;353
+.....  SALVADOR DO SUL;67
+.....  HARMONIA;43
+.....  PARECI NOVO;48
+.....  SAO JOSE DO SUL;18
+.....  ESTEIO;1071
+.....  NOVA SANTA RITA;381
+.....  BARAO;64
+43009 Região 09 - Carbonífera/Costa Doce;5163
+.....  CAMAQUA;862
+.....  BUTIA;313
+.....  ARAMBARE;26
+.....  BARAO DO TRIUNFO;68
+.....  MARIANA PIMENTEL;29
+.....  TAPES;183
+.....  SERTAO SANTANA;56
+.....  GENERAL CAMARA;86
+.....  GUAIBA;1317
+.....  ARROIO DOS RATOS;177
+.....  BARRA DO RIBEIRO;121
+.....  SENTINELA DO SUL;54
+.....  CHUVISCA;67
+.....  MINAS DO LEAO;114
+.....  CRISTAL;95
+.....  SAO JERONIMO;288
+.....  DOM FELICIANO;163
+.....  CHARQUEADAS;432
+.....  ELDORADO DO SUL;593
+.....  CERRO GRANDE DO SUL;119
+43010 Região 10 - Capital e Vale do Gravataí;31813
+.....  GLORINHA;76
+.....  PORTO ALEGRE;19189
+.....  CACHOEIRINHA;2106
+.....  VIAMAO;3435
+.....  GRAVATAI;3588
+.....  ALVORADA;3419
+43011 Região 11 - Sete Povos das Missões;3290
+.....  VITORIA DAS MISSOES;20
+.....  UBIRETAMA;18
+.....  ENTRE-IJUIS;100
+.....  SANTO ANGELO;1019
+.....  MATO QUEIMADO;22
+.....  ROLADOR;18
+.....  SAO LUIZ GONZAGA;416
+.....  CAIBATE;56
+.....  CERRO LARGO;150
+.....  BOSSOROCA;50
+.....  SAO BORJA;735
+.....  GARRUCHOS;28
+.....  SAO NICOLAU;47
+.....  SAO MIGUEL DAS MISSOES;89
+.....  SALVADOR DAS MISSOES;19
+.....  SETE DE SETEMBRO;19
+.....  SANTO ANTONIO DAS MISSOES;103
+.....  GUARANI DAS MISSOES;80
+.....  SAO PEDRO DO BUTIA;34
+.....  PIRAPO;22
+.....  PORTO XAVIER;141
+.....  ROQUE GONZALES;56
+.....  DEZESSEIS DE NOVEMBRO;22
+.....  EUGENIO DE CASTRO;26
+43012 Região 12 - Portal das Missões;1700
+.....  FORTALEZA DOS VALOS;55
+.....  COLORADO;24
+.....  BOA VISTA DO CADEADO;23
+.....  SELBACH;56
+.....  CRUZ ALTA;907
+.....  SALTO DO JACUI;149
+.....  QUINZE DE NOVEMBRO;38
+.....  SALDANHA MARINHO;27
+.....  SANTA BARBARA DO SUL;116
+.....  IBIRUBA;257
+.....  JACUIZINHO;22
+.....  BOA VISTA DO INCRA;26
+43013 Região 13 - Diversidade;2786
+.....  AUGUSTO PESTANA;62
+.....  CAMPO NOVO;88
+.....  SAO MARTINHO;46
+.....  HUMAITA;38
+.....  IJUI;1107
+.....  SANTO AUGUSTO;198
+.....  AJURICABA;61
+.....  SEDE NOVA;31
+.....  INHACORA;35
+.....  PANAMBI;582
+.....  CRISSIUMAL;156
+.....  CHIAPETTA;46
+.....  BOZANO;17
+.....  CATUIPE;91
+.....  CORONEL BARROS;26
+.....  CONDOR;37
+.....  PEJUCARA;30
+.....  NOVA RAMADA;18
+.....  JOIA;87
+.....  SAO VALERIO DO SUL;30
+43014 Região 14 - Fronteira Noroeste;2583
+.....  HORIZONTINA;221
+.....  SENADOR SALGADO FILHO;37
+.....  CANDIDO GODOI;59
+.....  SANTA ROSA;973
+.....  PORTO MAUA;18
+.....  PORTO VERA CRUZ;11
+.....  TUCUNDUVA;52
+.....  TUPARENDI;79
+.....  INDEPENDENCIA;78
+.....  GIRUA;193
+.....  SANTO CRISTO;161
+.....  SAO JOSE DO INHACORA;24
+.....  ALECRIM;59
+.....  DOUTOR MAURICIO CARDOSO;42
+.....  PORTO LUCENA;37
+.....  CAMPINA DAS MISSOES;47
+.....  NOVO MACHADO;21
+.....  NOVA CANDELARIA;27
+.....  BOA VISTA DO BURICA;70
+.....  ALEGRIA;37
+.....  TRES DE MAIO;290
+.....  SAO PAULO DAS MISSOES;47
+43015 Região 15 - Caminho das Águas;2271
+.....  TAQUARUCU DO SUL;30
+.....  TIRADENTES DO SUL;51
+.....  SEBERI;166
+.....  VISTA GAUCHA;25
+.....  LIBERATO SALZANO;68
+.....  NOVO TIRADENTES;24
+.....  PALMITINHO;93
+.....  PINHEIRINHO DO VALE;44
+.....  PLANALTO;130
+.....  CAICARA;29
+.....  RODEIO BONITO;73
+.....  CRISTAL DO SUL;28
+.....  DERRUBADAS;19
+.....  ERVAL SECO;79
+.....  AMETISTA DO SUL;73
+.....  BARRA DO GUARITA;37
+.....  TRES PASSOS;313
+.....  VISTA ALEGRE;29
+.....  IRAI;121
+.....  ALPESTRE;72
+.....  BOM PROGRESSO;34
+.....  PINHAL;28
+.....  ESPERANCA DO SUL;40
+.....  FREDERICO WESTPHALEN;408
+.....  VICENTE DUTRA;57
+.....  TENENTE PORTELA;200
+43016 Região 16 - Alto Uruguai Gaúcho;2712
+.....  GETULIO VARGAS;187
+.....  AUREA;34
+.....  GAURAMA;50
+.....  PAULO BENTO;14
+.....  SEVERIANO DE ALMEIDA;27
+.....  TRES ARROIOS;12
+.....  JACUTINGA;33
+.....  CARLOS GOMES;8
+.....  PONTE PRETA;11
+.....  MARIANO MORO;18
+.....  NONOAI;174
+.....  FAXINALZINHO;28
+.....  MARCELINO RAMOS;48
+.....  IPIRANGA DO SUL;17
+.....  BARRA DO RIO AZUL;10
+.....  ARATIBA;54
+.....  RIO DOS INDIOS;28
+.....  BARAO DE COTEGIPE;67
+.....  SAO VALENTIM;38
+.....  QUATRO IRMAOS;21
+.....  CRUZALTENSE;16
+.....  ERVAL GRANDE;63
+.....  VIADUTOS;48
+.....  ESTACAO;67
+.....  ERECHIM;1353
+.....  FLORIANO PEIXOTO;7
+.....  CHARRUA;33
+.....  CENTENARIO;33
+.....  BENJAMIN CONSTANT DO SUL;37
+.....  ITATIBA DO SUL;38
+.....  ENTRE RIOS DO SUL;40
+.....  CAMPINAS DO SUL;43
+.....  EREBANGO;55
+43017 Região 17 - Planalto;5413
+.....  COXILHA;32
+.....  CAMARGO;23
+.....  SERAFINA CORREA;186
+.....  MATO CASTELHANO;35
+.....  SANTO ANTONIO DO PLANALTO;15
+.....  PASSO FUNDO;2919
+.....  NOVA ALVORADA;39
+.....  NAO-ME-TOQUE;222
+.....  ERNESTINA;40
+.....  ALMIRANTE TAMANDARE DO SUL;22
+.....  SANTO ANTONIO DO PALMA;12
+.....  CASCA;93
+.....  DAVID CANABARRO;37
+.....  MARAU;527
+.....  MULITERNO;22
+.....  CARAZINHO;871
+.....  COQUEIROS DO SUL;15
+.....  SAO DOMINGOS DO SUL;23
+.....  GENTIL;22
+.....  SERTAO;47
+.....  LAGOA DOS TRES CANTOS;12
+.....  VILA MARIA;34
+.....  CIRIACO;47
+.....  PONTAO;35
+.....  NICOLAU VERGUEIRO;18
+.....  MONTAURI;13
+.....  VICTOR GRAEFF;31
+.....  VANINI;21
+43018 Região 18 - Araucárias;1458
+.....  TUPANCI DO SUL;18
+.....  AGUA SANTA;48
+.....  PAIM FILHO;32
+.....  SAO JOAO DA URTIGA;42
+.....  SAO JOSE DO OURO;71
+.....  MACHADINHO;55
+.....  CAPAO BONITO DO SUL;23
+.....  IBIACA;37
+.....  CACIQUE DOBLE;67
+.....  IBIRAIARAS;73
+.....  SANTA CECILIA DO SUL;21
+.....  TAPEJARA;287
+.....  ANDRE DA ROCHA;11
+.....  VILA LANGARO;20
+.....  LAGOA VERMELHA;347
+.....  MAXIMILIANO DE ALMEIDA;36
+.....  BARRACAO;42
+.....  CASEIROS;36
+.....  SANANDUVA;164
+.....  SANTO EXPEDITO DO SUL;28
+43019 Região 19 - Botucaraí;1320
+.....  CAMPOS BORGES;32
+.....  ESPUMOSO;186
+.....  ALTO ALEGRE;14
+.....  IBIRAPUITA;34
+.....  SOLEDADE;387
+.....  ITAPUCA;16
+.....  TUNAS;40
+.....  LAGOAO;74
+.....  BARROS CASSAL;109
+.....  MORMACO;35
+.....  ARVOREZINHA;110
+.....  TIO HUGO;35
+.....  TAPERA;124
+.....  FONTOURA XAVIER;124
+43020 Região 20 - Rota da Produção;2056
+.....  SARANDI;277
+.....  DOIS IRMAOS DAS MISSOES;27
+.....  CONSTANTINA;115
+.....  CORONEL BICACO;94
+.....  REDENTORA;212
+.....  CHAPADA;69
+.....  SAGRADA FAMILIA;27
+.....  MIRAGUAI;56
+.....  BRAGA;34
+.....  LAJEADO DO BUGRE;25
+.....  TRES PALMEIRAS;57
+.....  RONDA ALTA;104
+.....  JABOTICABA;41
+.....  NOVO BARREIRO;53
+.....  RONDINHA;60
+.....  SAO JOSE DAS MISSOES;22
+.....  GRAMADO DOS LOUREIROS;28
+.....  NOVA BOA VISTA;21
+.....  ENGENHO VELHO;21
+.....  BOA VISTA DAS MISSOES;24
+.....  CERRO GRANDE;30
+.....  PALMEIRA DAS MISSOES;487
+.....  TRINDADE DO SUL;92
+.....  BARRA FUNDA;36
+.....  NOVO XINGU;20
+.....  SAO PEDRO DAS MISSOES;24
+43021 Região 21 - Sul;10818
+.....  MORRO REDONDO;52
+.....  SANTA VITORIA DO PALMAR;399
+.....  RIO GRANDE;2960
+.....  PINHEIRO MACHADO;109
+.....  CANGUCU;574
+.....  PEDRO OSORIO;95
+.....  CAPAO DO LEAO;380
+.....  TURUCU;44
+.....  CHUI;58
+.....  PIRATINI;184
+.....  ARROIO DO PADRE;16
+.....  ARROIO GRANDE;201
+.....  PEDRAS ALTAS;10
+.....  PELOTAS;4353
+.....  SAO JOSE DO NORTE;290
+.....  HERVAL;71
+.....  CERRITO;61
+.....  SAO LOURENCO DO SUL;483
+.....  JAGUARAO;349
+.....  AMARAL FERRADOR;61
+.....  SANTANA DA BOA VISTA;68
+43022 Região 22 - Pampa;2410
+.....  ACEGUA;73
+.....  BAGE;1591
+.....  DOM PEDRITO;466
+.....  CANDIOTA;133
+.....  LAVRAS DO SUL;69
+.....  HULHA NEGRA;78
+43023 Região 23 - Caxias e Hortênsias;7942
+.....  GRAMADO;536
+.....  CAXIAS DO SUL;6421
+.....  CANELA;676
+.....  LINHA NOVA;8
+.....  NOVA PETROPOLIS;245
+.....  PICADA CAFE;56
+43024 Região 24 - Campos de Cima da Serra;1361
+.....  PINHAL DA SERRA;24
+.....  ESMERALDA;42
+.....  SAO JOSE DOS AUSENTES;42
+.....  VACARIA;973
+.....  MONTE ALEGRE DOS CAMPOS;34
+.....  CAMPESTRE DA SERRA;24
+.....  BOM JESUS;133
+.....  JAQUIRANA;50
+.....  MUITOS CAPOES;39
+43025 Região 25 - Vinhedos e Basalto;3640
+.....  CARLOS BARBOSA;319
+.....  NOVA ARACA;54
+.....  PINTO BANDEIRA;23
+.....  SAO JORGE;26
+.....  GARIBALDI;366
+.....  GUABIJU;18
+.....  GUAPORE;307
+.....  VERANOPOLIS;275
+.....  COTIPORA;17
+.....  SANTA TEREZA;8
+.....  UNIAO DA SERRA;4
+.....  FAGUNDES VARELA;24
+.....  PROTASIO ALVES;12
+.....  PARAI;67
+.....  NOVA BASSANO;85
+.....  BENTO GONCALVES;1614
+.....  BOA VISTA DO SUL;26
+.....  NOVA PRATA;323
+.....  VILA FLORES;33
+.....  MONTE BELO DO SUL;17
+.....  CORONEL PILAR;8
+.....  VISTA ALEGRE DO PRATA;14
+43026 Região 26 - Uva Vale;2185
+.....  VALE REAL;62
+.....  FELIZ;159
+.....  FLORES DA CUNHA;372
+.....  NOVA ROMA DO SUL;28
+.....  SAO VENDELINO;21
+.....  BOM PRINCIPIO;164
+.....  NOVA PADUA;15
+.....  ALTO FELIZ;26
+.....  ANTONIO PRADO;144
+.....  IPE;50
+.....  FARROUPILHA;906
+.....  SAO MARCOS;238
+43027 Região 27 - Jacuí Centro;2257
+.....  CACHOEIRA DO SUL;975
+.....  ESTRELA VELHA;33
+.....  SEGREDO;58
+.....  LAGOA BONITA DO SUL;31
+.....  ARROIO DO TIGRE;139
+.....  IBARAMA;39
+.....  ENCRUZILHADA DO SUL;268
+.....  CERRO BRANCO;39
+.....  CACAPAVA DO SUL;398
+.....  NOVO CABRAIS;42
+.....  SOBRADINHO;191
+.....  PASSA SETE;44
+43028 Região 28 - Vinte e Oito;3960
+.....  HERVEIRAS;35
+.....  PANTANO GRANDE;101
+.....  RIO PARDO;409
+.....  CANDELARIA;318
+.....  VALE VERDE;35
+.....  VERA CRUZ;278
+.....  PASSO DO SOBRADO;44
+.....  VENANCIO AIRES;816
+.....  SANTA CRUZ DO SUL;1632
+.....  GRAMADO XAVIER;34
+.....  VALE DO SOL;107
+.....  MATO LEITAO;56
+.....  SINIMBU;95
+43029 Região 29 - Vales e Montanhas;2515
+.....  CAPITAO;32
+.....  DOIS LAJEADOS;26
+.....  ENCANTADO;274
+.....  POUSO NOVO;14
+.....  CANUDOS DO VALE;12
+.....  COQUEIRO BAIXO;9
+.....  NOVA BRESCIA;36
+.....  SAO VALENTIM DO SUL;20
+.....  SANTA CLARA DO SUL;55
+.....  ANTA GORDA;41
+.....  ROCA SALES;104
+.....  ILOPOLIS;34
+.....  RELVADO;12
+.....  TRAVESSEIRO;15
+.....  DOUTOR RICARDO;15
+.....  CRUZEIRO DO SUL;103
+.....  PROGRESSO;45
+.....  PUTINGA;34
+.....  BOQUEIRAO DO LEAO;84
+.....  ARROIO DO MEIO;273
+.....  MUCUM;49
+.....  MARQUES DE SOUZA;46
+.....  VESPASIANO CORREA;11
+.....  SAO JOSE DO HERVAL;22
+.....  LAJEADO;1119
+.....  FORQUETINHA;17
+.....  SERIO;13
+43030 Região 30 - Vale da Luz;1547
+.....  COLINAS;22
+.....  FAZENDA VILANOVA;63
+.....  TEUTONIA;396
+.....  BOM RETIRO DO SUL;137
+.....  TAQUARI;357
+.....  ESTRELA;420
+.....  IMIGRANTE;20
+.....  POCO DAS ANTAS;22
+.....  PAVERAMA;81
+.....  WESTFALIA;29
+Total;143315
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC;
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.;
+ Notas:;
+ ;
+ Dados finais disponíveis até 2023. Data da atualização dos dados 12/2024.;
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram;
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento;
+" ""Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011"".";
+ ;
+" * A categorização da ""Adequação quantitativa de pré-natal"" mostrada na variável ""Adeq quant pré-natal"" considera o início do";
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no;
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).;
+" Maiores informações no documento ""Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi";
+ ;
