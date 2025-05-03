@@ -21,31 +21,7 @@ http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvrs.def
 - LOCAL DO NASCIMENTO POR REGIÃO DE 2021 A 2023
 - LINHA DO TEMPO RECORTE DE PARTOS POR 10 ANOS(Feito já)
 ---
-# Links idades das mães com quantidades de partos:
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def 
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
----
- # Links Dados por região DE 2013 A 2023 (quantidade de médicos que precisam por região):
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
-- http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinasc/cnv/nvrs.def
+
  
 ---
 # 👥Autores:
