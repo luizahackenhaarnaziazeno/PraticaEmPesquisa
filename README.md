@@ -15,10 +15,10 @@ http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvrs.def
 
 ---
 # 📊Dados Analisados:
-- Dados por região DE 2013 A 2023 (quantidade de médicos que precisam por região)
+- Dados por região DE 2013 A 2023 (quantidade de médicos que precisam por região) -(feito já)
 - IDADE DAS MÃES COM NUMERO DE CONSULTA PRÉ NATAL E SE O NASCIDO TEVE ALGUMA ANOMALIA
-- TIPO DE PARTO COM REGIAO DE SAÚDE(CIR)(GASTOS COM ELES DEVIDO AO TIPO) 2021 AA 2023
-- LOCAL DO NASCIMENTO POR REGIÃO DE 2021 A 2023
+- TIPO DE PARTO COM REGIAO DE SAÚDE(CIR)(GASTOS COM ELES DEVIDO AO TIPO) 2013 A 2023
+- LOCAL DO NASCIMENTO POR REGIÃO DE 2013 A 2023
 - LINHA DO TEMPO RECORTE DE PARTOS POR 10 ANOS(Feito já)
 ---
 
