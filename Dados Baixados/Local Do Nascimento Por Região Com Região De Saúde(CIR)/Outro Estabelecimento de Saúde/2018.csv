@@ -1,0 +1,41 @@
+ Nascidos vivos - Rio Grande do Sul
+Nascim p/resid.mãe por Região de Saúde (CIR)
+Local ocorrência: Outro Estabelecimento de Saúde
+Período:2018
+"Região de Saúde (CIR)";"Nascim_p/resid.mãe"
+"43001 Região 01 - Verdes Campos";1
+"43003 Região 03 - Fronteira Oeste";4
+"43004 Região 04 - Belas Praias";4
+"43005 Região 05 - Bons Ventos";1
+"43006 Região 06 - Vale do Paranhana e Costa Serra";1
+"43007 Região 07 - Vale dos Sinos";8
+"43008 Região 08 - Vale do Caí e Metropolitana";15
+"43009 Região 09 - Carbonífera/Costa Doce";5
+"43010 Região 10 - Capital e Vale do Gravataí";3
+"43013 Região 13 - Diversidade";1
+"43014 Região 14 - Fronteira Noroeste";4
+"43015 Região 15 - Caminho das Águas";1
+"43020 Região 20 - Rota da Produção";1
+"43021 Região 21 - Sul";6
+"43023 Região 23 - Caxias e Hortênsias";2
+"43024 Região 24 - Campos de Cima da Serra";1
+"43025 Região 25 - Vinhedos e Basalto";5
+"43026 Região 26 - Uva Vale";2
+"43027 Região 27 - Jacuí Centro";1
+"43028 Região 28 - Vinte e Oito";5
+"43029 Região 29 - Vales e Montanhas";1
+"Total";72
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Notas:
+ 
+ Dados finais disponíveis até 2023. Data da atualização dos dados 12/2024.
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 

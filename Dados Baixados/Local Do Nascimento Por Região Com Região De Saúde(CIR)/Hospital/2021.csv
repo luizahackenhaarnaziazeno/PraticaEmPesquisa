@@ -1,0 +1,50 @@
+ Nascidos vivos - Rio Grande do Sul
+Nascim p/resid.mãe por Região de Saúde (CIR)
+Local ocorrência: Hospital
+Período:2021
+"Região de Saúde (CIR)";"Nascim_p/resid.mãe"
+"43001 Região 01 - Verdes Campos";4695
+"43002 Região 02 - Entre Rios";1064
+"43003 Região 03 - Fronteira Oeste";5417
+"43004 Região 04 - Belas Praias";2323
+"43005 Região 05 - Bons Ventos";2723
+"43006 Região 06 - Vale do Paranhana e Costa Serra";2633
+"43007 Região 07 - Vale dos Sinos";9214
+"43008 Região 08 - Vale do Caí e Metropolitana";9097
+"43009 Região 09 - Carbonífera/Costa Doce";4163
+"43010 Região 10 - Capital e Vale do Gravataí";23506
+"43011 Região 11 - Sete Povos das Missões";3193
+"43012 Região 12 - Portal das Missões";1477
+"43013 Região 13 - Diversidade";2579
+"43014 Região 14 - Fronteira Noroeste";2555
+"43015 Região 15 - Caminho das Águas";2404
+"43016 Região 16 - Alto Uruguai Gaúcho";2550
+"43017 Região 17 - Planalto";5257
+"43018 Região 18 - Araucárias";1501
+"43019 Região 19 - Botucaraí";1317
+"43020 Região 20 - Rota da Produção";2026
+"43021 Região 21 - Sul";8765
+"43022 Região 22 - Pampa";2096
+"43023 Região 23 - Caxias e Hortênsias";6627
+"43024 Região 24 - Campos de Cima da Serra";1347
+"43025 Região 25 - Vinhedos e Basalto";3522
+"43026 Região 26 - Uva Vale";2039
+"43027 Região 27 - Jacuí Centro";2148
+"43028 Região 28 - Vinte e Oito";3522
+"43029 Região 29 - Vales e Montanhas";2575
+"43030 Região 30 - Vale da Luz";1450
+"Total";123785
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Notas:
+ 
+ Dados finais disponíveis até 2023. Data da atualização dos dados 12/2024.
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 
