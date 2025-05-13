@@ -15,15 +15,12 @@ http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvrs.def
 
 ---
 # 📊Dados Analisados:
-- Linha Do Tempo Recorte De Partos Por 10 Anos-(Feito já)
-- Dados por região DE 2013 A 2023 (quantidade de médicos que precisam por região)-(feito já)
-- Local Do Nascimento Por Região Com Região De Saúde(CIR) DE 2013 A 2023-(feito já)
-- TIPO DE PARTO COM REGIAO DE SAÚDE(CIR)(GASTOS COM ELES DEVIDO AO TIPO) 2013 A 2023-(feito já)
-
+- Linha Do Tempo Recorte De Partos Por 10 Anos
+- Dados por região DE 2013 A 2023 (quantidade de médicos que precisam por região)
+- Local Do Nascimento Por Região Com Região De Saúde(CIR) DE 2013 A 2023
+- TIPO DE PARTO COM REGIAO DE SAÚDE(CIR)(GASTOS COM ELES DEVIDO AO TIPO) 2013 A 2023
 - IDADE DAS MÃES COM NUMERO DE CONSULTA PRÉ NATAL E SE O NASCIDO TEVE ALGUMA ANOMALIA
-
 ---
-
  
 ---
 # 👥Autores:
