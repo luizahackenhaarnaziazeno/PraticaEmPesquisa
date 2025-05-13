@@ -1,0 +1,28 @@
+ Nascidos vivos - Rio Grande do Sul
+Nascim p/resid.mãe por Idade da mãe e Consult pré-natal
+Anomalia congênita: Sim
+Período:2016
+"Idade da mãe";"Nenhuma";"De 1 a 3 consultas";"De 4 a 6 consultas";"7 ou mais consultas";"Ignorado";"Total"
+"10 a 14 anos";-;-;2;4;-;6
+"15 a 19 anos";3;14;52;107;2;178
+"20 a 24 anos";7;20;55;188;1;271
+"25 a 29 anos";6;9;41;183;-;239
+"30 a 34 anos";4;21;56;205;1;287
+"35 a 39 anos";4;9;33;156;-;202
+"40 a 44 anos";1;7;17;47;-;72
+"45 a 49 anos";-;-;1;4;-;5
+"Total";25;80;257;894;4;1260
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Notas:
+ 
+ Dados finais disponíveis até 2023. Data da atualização dos dados 12/2024.
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 
