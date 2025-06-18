@@ -5,7 +5,7 @@
 Projeto desenvolvido na disciplina de Prática Em Pesquisa 2025/1.
 ---
 # 💻Dashboard Online:
-- https://app.powerbi.com/view?r=eyJrIjoiNzQzYzVhZTgtMDcxOS00MzdmLWFhZDEtNGJjYmM1ZmZjMDkwIiwidCI6IjUxZWJjZjMxLTU4MzktNDEyZS04M2JiLTgwMWEyYmE3ODYyNyJ9
+- [https://app.powerbi.com/view?r=eyJrIjoiNzQzYzVhZTgtMDcxOS00MzdmLWFhZDEtNGJjYmM1ZmZjMDkwIiwidCI6IjUxZWJjZjMxLTU4MzktNDEyZS04M2JiLTgwMWEyYmE3ODYyNyJ9](https://app.powerbi.com/view?r=eyJrIjoiNGNlYjc3YTgtM2ZlNy00ZjVkLWJhNTYtMDlhZGZmMWU4ZDQ3IiwidCI6IjUxZWJjZjMxLTU4MzktNDEyZS04M2JiLTgwMWEyYmE3ODYyNyJ9)
 
 ---
 # Trabalho Base:
