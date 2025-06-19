@@ -11,7 +11,7 @@ Projeto desenvolvido na disciplina de Prática Em Pesquisa 2025/1.
 # 📊Dados Analisados:
 - [Análise Temporal da Distribuição de Partos por Faixa Etária Materna no Rio Grande do Sul (2013-2023)](https://github.com/luizahackenhaarnaziazeno/PraticaEmPesquisa/blob/main/Gr%C3%A1ficos/Linha%20do%20Tempo%20por%20Partos%20(por%20idade%20das%20m%C3%A3es).png)
 - Análise Longitudinal da Demanda Estimada de Médicos por Região de Saúde no Rio Grande do Sul (2013-2023)
-- Análise da Distribuição do Local de Ocorrência dos Partos no Rio Grande do Sul (2013-2023)
+- [Análise da Distribuição do Local de Ocorrência dos Partos no Rio Grande do Sul (2013-2023)](https://github.com/luizahackenhaarnaziazeno/PraticaEmPesquisa/blob/main/Gr%C3%A1ficos/Local%20parto.png)
 - Análise Comparativa da Evolução Temporal dos Partos Cesáreos e Vaginais no Rio Grande do Sul (2013-2023)
 - Relação entre Consultas de Pré-Natal e Ocorrência de Anomalias Congênitas no Rio Grande do Sul (2013-2023)
 
